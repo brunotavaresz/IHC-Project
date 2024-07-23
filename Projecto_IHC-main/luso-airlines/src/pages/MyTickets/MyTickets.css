@@ -1,0 +1,11 @@
+.tickets {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ticket {
+    width: 350px;
+    margin: 20px;
+    margin-left: 70px;
+}
